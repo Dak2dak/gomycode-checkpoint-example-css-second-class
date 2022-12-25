@@ -83,6 +83,25 @@ section p {
     border: solid 5px red;
 }
 
+.table_div{
+    padding: 30px 150px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
 .video_box {
     text-align: center;
 }
