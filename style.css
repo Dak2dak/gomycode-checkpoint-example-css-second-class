@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Karla:ital,wght@1,200&family=Montserrat:wght@200&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 40px 0;
+}
+
+nav {
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul .main-li {
+    color: rgb(17, 17, 91);
+    display: inline-block;
+    margin-left: 160px;
+    list-style: none;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+ul .second-li {
+    font-family: 'Montserrat', sans-serif;
+    display: none;
+}
+
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(17, 17, 91);
+    padding: 50px 0 100px 0;
+    text-align: center;
+    color: #fff;
+}
+
+section h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(17, 17, 91);
+    padding: 20px 0;
+    text-align: center;
+}
+
+section h4 {
+    margin: 35px 0;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 10px;
+    color: rgb(17, 17, 91);
+    text-transform: uppercase;
+}
+
+section h1 span {
+    font-size: 50px;
+}
+
+section p {
+    font-weight: 300;
+    text-align: justify;
+    padding: 10px 100px;
+    font-family: 'Karla', sans-serif;
+}
+
+.center {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Caramel', cursive;
+}
+
+.img_box {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.img_box img {
+    padding: 5px;
+    object-fit: cover;
+    border: solid 5px red;
+}
+
+.video_box {
+    text-align: center;
+}
+
+iframe {
+    border: solid 5px red;
+    border-radius: 20px;
+}
+
+.icon_div {
+    text-align: center;
+}
+
+.icon_div i {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: #8a3ab9;
+    /* background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D); */
+}
+
+.fa-github {
+    color: #171515;
+}
+
+.fa-phone {
+    color: #3b5998;
+}
+
+footer {
+    color: #fff;
+    background-color: rgb(17, 17, 91);
+}
+
+form {
+    width: 350px;
+    margin-left: 100px;
+    padding: 30px 20px;
+}
+
+form label {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input {
+    width: 300px;
+    border: none;
+    color: #ddd;
+    outline: none;
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+input[type=submit] {
+    color: #fff;
+    font-weight: 600;
+    background-color: green;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+footer p {
+    padding: 30px 0;
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+}
+
+.audio_box {
+    text-align: center;
+}
