@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caramel&family=Karla:ital,wght@1,200&family=Montserrat:wght@200&display=swap');
 
 
-
 *{
     margin: 0;
     padding: 0;
@@ -33,7 +32,7 @@ ul .second-li {
 header h1 {
     font-family: 'Montserrat', sans-serif;
     background-color: rgb(17, 17, 91);
-    padding: 50px 0 100px 0;
+    padding: 100px 0 100px 0;
     text-align: center;
     color: #fff;
 }
@@ -41,8 +40,8 @@ header h1 {
 section h1 {
     font-family: 'Montserrat', sans-serif;
     color: rgb(17, 17, 91);
-    padding: 20px 0;
     text-align: center;
+    padding: 20px 0;
 }
 
 section h4 {
