@@ -12,7 +12,7 @@
     ul .main-li {
     border: solid;
     margin-left: 50px;
-    color: green;
+    color: green !important;
 }
 
 
