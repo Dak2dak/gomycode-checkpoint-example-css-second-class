@@ -6,6 +6,16 @@
     padding: 0;
 }
 
+
+@media screen and (max-width: 300px) {
+
+    ul .main-li {
+    margin-left: 50px;
+}
+
+
+}
+
 section {
     padding: 40px 0;
 }
