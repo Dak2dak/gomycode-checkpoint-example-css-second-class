@@ -7,11 +7,12 @@
 }
 
 
-@media screen and (min-width: 200px) {
+@media screen and (max-width: 320px) {
 
     ul .main-li {
     border: solid;
     margin-left: 50px;
+    color: green;
 }
 
 
